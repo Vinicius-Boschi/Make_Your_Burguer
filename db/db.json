@@ -16,6 +16,14 @@
       {
         "id": 4,
         "tipo": "Integral"
+      },
+      {
+        "id": 5,
+        "tipo": "Mexicano"
+      },
+      {
+        "id": 6,
+        "tipo": "Francês"
       }
     ],
     "carnes": [
@@ -54,11 +62,11 @@
         "tipo": "Tomate"
       },
       {
-        "id": 4,
+        "id": 5,
         "tipo": "Cebola roxa"
       },
       {
-        "id": 4,
+        "id": 6,
         "tipo": "Pepino"
       }
     ]
