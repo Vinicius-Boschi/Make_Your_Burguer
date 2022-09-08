@@ -107,21 +107,6 @@
       ],
       "status": "Em produção",
       "id": 2
-    },
-    {
-      "nome": "João",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa",
-        "Cheddar",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Finalizado",
-      "id": 3
     }
   ]
 }
