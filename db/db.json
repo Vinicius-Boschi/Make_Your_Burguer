@@ -107,18 +107,6 @@
       ],
       "status": "Solicitado",
       "id": 2
-    },
-    {
-      "nome": "João",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Salame",
-        "Pepino",
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 3
     }
   ]
 }
